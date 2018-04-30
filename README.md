@@ -1,6 +1,6 @@
 # f1live-leanback
 
-f1live is an experimental F1 Race watching app for Android TV. It is designed to satisfy my requirement of better F1 Race watching experience in my Android TV during match days. 
+f1live is an experimental F1 Race watching app for Android TV. It is designed to satisfy my need of a better race watching experience on my Android TV during match days. 
 
 
 ## What it can do
@@ -31,7 +31,7 @@ f1live is an experimental F1 Race watching app for Android TV. It is designed to
 
 ## Code
 
-This APP is partially referenced by my previous project [Cantv-leanback](https://github.com/q1yh/cantv-leanback/), and I developped [Twitterwall](https://github.com/q1yh/twitterwall/), a general tweets data collection and render into a stagged grid view, which was publish independently so it could be merged into your own codes easily.
+This APP is partially referenced by my previous project [Cantv-leanback](https://github.com/q1yh/cantv-leanback/), and plus I developped [Twitterwall](https://github.com/q1yh/twitterwall/), a general tweets data collection and stagged grid view render, which was publish independently so it could be merged into any other project easily.
 
 
 ## License
