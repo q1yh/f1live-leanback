@@ -24,7 +24,7 @@ f1live is an experimental F1 Race watching app for Android TV. It is designed to
 
 2. Download the [f1live app installation package](https://github.com/q1yh/f1live-leanback/raw/master/f1live-dist.apk) to your local storage.
 
-3. Execute f1live-dist.apk in one of your Android TV's file managers(like ES File Explorer,etc), complete the installation.
+3. Execute the downloaded package in one of your favorite file managers(like ES File Explorer,etc), complete the installation.
 
 4. Volia, the app should be successfully installed, enjoy! 
 
