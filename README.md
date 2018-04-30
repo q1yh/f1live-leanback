@@ -5,7 +5,7 @@ In aspect of code, it is derived from previous project cantv-leanback, and I ext
 
 ## Screenshots
 
-[![Screenshot](screenshot.png)](https://github.com/q1yh/f1live-leanback/raw/master/screenshot.png)
+[![Screenshot](screenshot.png)](https://github.com/q1yh/f1live-leanback/raw/master/screenshot.jpg)
 
 ## Tutorial
 [Video: Experimental F1 Race watching app on Android TV](https://www.youtube.com/watch?v=hjevrgtkij4)
