@@ -1,2 +1,6 @@
 # f1live-leanback
-It is an F1 Race watching app for Android TV. 
+It is an experimental F1 Racing match room app for Android TV. It is designed to occupy some hours of my Android TV during match days, from which I could enjoy the amazing racing match, offical videos, etc. Ff the match was boring, It could also find some noisy but funny tweets from crazy fans for you. 
+
+In aspect of code, it is derived from previous project like cantv-leanback, and I extract the twitterwall module independently so it is easily to be merged into your own codes.
+
+
