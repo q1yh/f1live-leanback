@@ -1,4 +1,4 @@
-# f1live-leanback
+# livent-plugin-f1
 
 f1live is an experimental F1 Race watching app for Android TV. It is designed to satisfy my need of a better race watching experience on my Android TV during match days. 
 
